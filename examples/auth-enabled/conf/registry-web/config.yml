@@ -1,6 +1,7 @@
 registry:
    url: http://registry:5000/v2
-   name: localhost:5000
+   #name: localhost:5000
+   name: 10.20.10.187:5000
    readonly: false
    auth:
      enabled: true
